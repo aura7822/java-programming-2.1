@@ -4,6 +4,17 @@ NAME : Aura
 ADM :BSE-05-0180/2024
 GROUP : 3
  */
+/**
+ * Car Rental System
+ *
+ * This program demonstrates a simple car rental system using object-oriented programming (OOP) principles.
+ * It includes classes for cars, customers, and a rental agency, and supports renting and returning cars.
+ *
+ * Author: joshua Aura
+ * Date: 5th june 2025
+ * Language: Java
+ */
+
 import java.util.*;
 class Entity {
     protected String id;
@@ -86,6 +97,23 @@ public class Main {
         agency.returnCar("C1");
     }
 }
+/**
+ * Documentation Summary:
+ *
+ * Classes:
+ * - Entity: Abstract base for common fields (id, name)
+ * - Car: Inherits from Entity, tracks availability status
+ * - Customer: Inherits from Entity
+ * - RentalAgency: Manages car and customer lists, handles rental and return operations
+ * - Main: Entry point, includes embedded test cases
+ *
+ * Functionalities:
+ * - Add car/customer
+ * - Rent and return cars
+ * - Check availability
+ * - Basic testing framework for validation
+ */
+
 
 
 
