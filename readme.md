@@ -37,7 +37,7 @@ Perfect for students, beginners, and anyone revising their **object-oriented pro
 ┃ ┣ Cat3.java
 ┗ README.md
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<img src="https://github.com/aura7822/java-programming-2.1/blob/main/cover.gif" alt="IM AURA Banner" width="100%" height="auto"/>
+<img src="https://github.com/aura7822/java-programming-2.1/blob/main/ve.png" alt="IM AURA Banner" width="100%" height="auto"/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## ✨ Topics Covered
@@ -49,6 +49,7 @@ Perfect for students, beginners, and anyone revising their **object-oriented pro
 - ✅ Functions / Methods
 - ✅ Object-Oriented Programming (Classes & Objects)
 - ✅ Exception Handling
+- ✅ Threads
 - ✅ Swing && Gui
 - ✅ Databases in java[MySQL]
 - ✅ Assignments & Challenges
@@ -59,6 +60,7 @@ Perfect for students, beginners, and anyone revising their **object-oriented pro
 ### 🔧 Prerequisites
 - Install [Java JDK 17+](https://www.oracle.com/java/technologies/javase-downloads.html)
 - Install an IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code with Java extension)
+- Install a MySQL IDE such as DBeaver and xampp
 
 ### ▶️ Run Code
 ```bash
