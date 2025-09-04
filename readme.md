@@ -1,5 +1,6 @@
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=33FF00&center=true&vCenter=true&width=850&lines=Java+Programming+%7C+Basics+%26+Assignments;Learn+Java+Step+by+Step+%F0%9F%92%BB;By+Aura" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=880000&center=true&vCenter=true&width=850&lines=Java+Programming+%7C+Basics+%26+Assignments;Learn+Java+Step+by+Step+%F0%9F%92%BB;By+Aura" alt="Typing SVG" />
 </a>
 
 <div align="center">
@@ -9,15 +10,15 @@
 <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey?style=for-the-badge" />
 
 </div>
----
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 # ☕ Java Programming – Basics & Assignments
 
 This repository contains **Java basics, practice programs, and assignments** 🚀.  
 Perfect for students, beginners, and anyone revising their **object-oriented programming skills**.
----
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 📂 Repository Structure
 📦 java-programming
@@ -35,8 +36,9 @@ Perfect for students, beginners, and anyone revising their **object-oriented pro
 ┃ ┣ Cat2.java
 ┃ ┣ Cat3.java
 ┗ README.md
----
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img src="https://github.com/aura7822/java-programming-2.1/blob/main/cover.gif" alt="IM AURA Banner" width="100%" height="auto"/>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## ✨ Topics Covered
 - ✅ Printing & Input in Java
@@ -50,8 +52,8 @@ Perfect for students, beginners, and anyone revising their **object-oriented pro
 - ✅ Swing && Gui
 - ✅ Databases in java[MySQL]
 - ✅ Assignments & Challenges
----
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 🚀 Getting Started
 ### 🔧 Prerequisites
@@ -73,7 +75,11 @@ public class HelloWorld {
         System.out.println("Hello, World 🌍");
     }
 }
-📑 Assignments
+```
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+###📑 Assignments
 Each assignment focuses on a specific Java concept:
 
 Assignment 1 → Basic Input/Output & Variables
@@ -97,6 +103,14 @@ Use it to learn, practice, and improve your programming skills.
 <div align="center">
 💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
+
+### Miscillaneous
+Licensed under MIT License.
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+Copyright © 2025 aura.
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ⭐ If you like this repo, don’t forget to Star it!
 
 </div> `
